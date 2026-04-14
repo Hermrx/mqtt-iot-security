@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Seguridad en IoT — Broker MQTT Securizado
 
 **Caso Práctico 9 | Módulo 9: Seguridad en IoT**  
@@ -237,3 +238,7 @@ mqtt-iot-security/
 - **Mosquitto 2.x** — Broker MQTT
 - **OpenSSL** — Generación de certificados
 - **MQTT protocol** — Comunicación IoT/M2M
+=======
+# mqtt-iot-security
+MQTT broker security hardening with authentication, ACL, and SSL/TLS in a smart home IoT environment. Lab practice
+>>>>>>> aa007a83ccdc0cb3859806dc0e11ab5b76fa9e4a

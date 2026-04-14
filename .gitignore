@@ -1,0 +1,13 @@
+# Certificados y claves privadas — NUNCA subir al repositorio
+*.key
+*.csr
+*.srl
+ca.crt
+server.crt
+
+# Archivo de contraseñas Mosquitto
+passwd
+
+# Archivos del sistema
+.DS_Store
+*.swp
